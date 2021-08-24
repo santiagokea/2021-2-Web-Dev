@@ -48,8 +48,12 @@ div#main-container > main{
 div#main-container > main > div.item{
   display: grid;
   grid-template-columns: 100fr 400fr;
+  gap: 1rem;
   border-top: 3px solid rgba(0, 0, 0, 0.5);
+  padding-top: 1rem;
 }
-
+div#main-container > main > div.item img{
+  width: 15rem;
+}
 
 
