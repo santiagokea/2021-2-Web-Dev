@@ -1,16 +1,23 @@
+var aLetters = ["a", "b", "c"]
+// Show lettter c from the array inside the input field
+// .value = 
+
+
+
+
 // a is array
 // j is json
 // s is string/text
 // i is number
 //               0    1    2
-var aLetters = ["a", "b", "c", "d", "e"]
+// var aLetters = ["a", "b", "c", "d", "e"]
 // push is adding
-aLetters.push("d") //["a", "b", "c", "d"]
-// pop you delete from the end
-aLetters.pop()
-aLetters.pop()
-aLetters.pop()
-console.log(aLetters)
+// aLetters.push("d") //["a", "b", "c", "d"]
+// // pop you delete from the end
+// aLetters.pop()
+// aLetters.pop()
+// aLetters.pop()
+// console.log(aLetters)
 // console.log(aLetters[2])
 // Arrays goes hand-by-hand with loops
 
