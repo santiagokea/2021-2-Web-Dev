@@ -1,9 +1,11 @@
-var name = "Santiago"
+// var name = "Santiago"
 // document.querySelector("section").style.display = "none" 
-document.querySelector("section").innerHTML = name
+// document.querySelector("section").innerHTML = name
 
-
-
+// document.querySelector("nav div").style.color = "red"
+// document.querySelector("nav#slogan").style.color = "red"
+// document.querySelector("nav").children[1].style.color = "red"
+document.querySelector("nav div:nth-of-type(1)").style.color = "red"
 
 // var first_name = "Santiago"
 // var last_name = "Donoso"
